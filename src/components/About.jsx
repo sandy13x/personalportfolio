@@ -8,7 +8,7 @@ export default function About() {
         <h2 className="text-4xl font-bold text-pink-400 mb-10 text-center">About Me</h2>
 
         <p className="text-lg text-zinc-700 mb-10 leading-relaxed text-center">
-          Hey! I'm <span className="text-cyan-400 font-semibold">YourName</span>, a passionate frontend developer with a love
+          Hey! I'm <span className="text-cyan-400 font-semibold">Sandeep Rajawat</span>, a passionate frontend developer with a love
           for crafting beautiful, functional, and user-friendly digital experiences. I specialize in building modern web apps
           using technologies like <span className="text-pink-400 font-medium">React</span>, <span className="text-pink-400 font-medium">Tailwind CSS</span>, and <span className="text-pink-400 font-medium">Next.js</span>.
         </p>
